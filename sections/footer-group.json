@@ -1,0 +1,107 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "custom-footer",
+      "blocks": {
+        "menu_column_1": {
+          "type": "menu_column",
+          "settings": {
+            "heading": "Comprar",
+            "menu": "main-menu-2026"
+          }
+        }
+      },
+      "block_order": [
+        "menu_column_1"
+      ],
+      "settings": {
+        "use_theme_colors": false,
+        "show_newsletter": true,
+        "newsletter_title": "Enterate primero de los diseños nuevos",
+        "newsletter_title_alignment": "center",
+        "newsletter_title_color": "#F4F4F4",
+        "newsletter_subtitle": "Sin spam y sin cupones que caducan mañana.",
+        "newsletter_subtitle_alignment": "center",
+        "newsletter_subtitle_color": "#ffffff",
+        "newsletter_subtitle_margin_top": 16,
+        "newsletter_placeholder": "tu@correo.com",
+        "newsletter_button_text": "Registrarme",
+        "show_button_text": true,
+        "newsletter_button_bg_color": "#dfa21c",
+        "newsletter_button_text_color": "#193651",
+        "newsletter_button_border_radius": 40,
+        "show_brand_column": true,
+        "logo": "shopify://shop_images/PDP_Shopify.png",
+        "logo_width": 150,
+        "brand_name": "",
+        "logo_description": "",
+        "brand_description": "",
+        "footer_columns": "4",
+        "mobile_columns": "2",
+        "show_footer_bottom": true,
+        "copyright_text": "Pata de Pato · Hecho en México",
+        "show_payment_icons": true,
+        "custom_payment_icons": "visa, mastercard, american_express, apple_pay, google_pay, shopify_pay, paypal, discover",
+        "payment_icon_height": 24,
+        "payment_icon_spacing": 8,
+        "show_localization": true,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "show_social": true,
+        "show_copyright": true,
+        "newsletter_bg_color": "#193651",
+        "newsletter_text_color": "#ffffff",
+        "newsletter_button_color": "#333030",
+        "footer_bg_color": "#193651",
+        "footer_text_color": "#ffffff",
+        "footer_link_color": "#ffffff",
+        "footer_link_hover_color": "#fbecc4",
+        "footer_heading_color": "#ffffff",
+        "footer_border_color": "#8a97a6",
+        "footer_menu_color": "#ffffff",
+        "footer_menu_hover_color": "#fbecc4",
+        "footer_divider_color": "#8a97a6",
+        "localization_label_color": "#ffffff",
+        "footer_heading_size": 22,
+        "footer_text_size": 14,
+        "newsletter_title_size": 32,
+        "newsletter_subtitle_size": 16,
+        "copyright_text_size": 11,
+        "localization_label_size": 14,
+        "newsletter_section_padding_top": 50,
+        "newsletter_section_padding_bottom": 50,
+        "newsletter_section_padding_top_mobile": 40,
+        "newsletter_section_padding_bottom_mobile": 40,
+        "newsletter_form_max_width": 580,
+        "newsletter_form_margin_top": 32,
+        "newsletter_input_padding_vertical": 24,
+        "newsletter_input_padding_horizontal": 24,
+        "newsletter_input_border_radius": 40,
+        "newsletter_input_border_width": 1,
+        "newsletter_input_border_color": "#8a97a6",
+        "newsletter_input_font_size": 14,
+        "newsletter_input_height": 48,
+        "newsletter_input_bg_color": "#ffffff",
+        "newsletter_input_text_color": "#193651",
+        "enable_section_top_border": false,
+        "section_top_border_width": 1,
+        "section_top_border_style": "solid",
+        "section_top_border_color": "#e5e5e5"
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}
